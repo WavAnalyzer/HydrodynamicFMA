@@ -1,5 +1,5 @@
 % Dissipasive Fourier Modal Analysis Model Validation (OOP Version)
-% Benchmarked in 27/05/2026 using refactored stateful FMA library[cite: 7]
+% Benchmarked in 27/05/2026 using refactored stateful FMA library
 % To use the examples, uncomment the block you want to benchmark
 clc; clear all; close all;
 
